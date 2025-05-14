@@ -26,12 +26,15 @@ yarn dev
 pnpm dev
 # or
 bun dev
+
+
+
 ✨ Features
 ⚡ Optimized performance with Next.js App Router
-
 🎨 Clean and responsive UI using Tailwind CSS
 💫 Animated interactions with Framer Motion
 🔍 Modern icon system via Lucide React
+
 
 📦 Deployment
 Deploy easily on Vercel, the creators of Next.js:
